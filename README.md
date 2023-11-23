@@ -9,5 +9,5 @@
 
 3**创建 worker**
 
-**修改名称（随意）点击部署，再编辑代码**
-
+**修改名称（随意）点击部署，再编辑代码（如下）**
+https://github.com/wwwww888000/cfv2/blob/main/worker-vless.js

@@ -7,6 +7,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = 'd342d11e-d424-4583-b36e-524ab1f0afa4';
 // 输入自定义UUID
 let proxyIP = '';
+//填写以下任意
 // cdn-all.xn--b6gac.eu.org 
 // cdn.xn--b6gac.eu.org 
 // cdn-b100.xn--b6gac.eu.org 
